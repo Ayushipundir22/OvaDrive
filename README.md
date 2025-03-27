@@ -1,12 +1,40 @@
-# React + Vite
+OvaDrive
+OvaDrive is a web application designed to provide users with a seamless experience in data management, user interactions, and beautiful visual effects. This project demonstrates advanced animations, motion design, and smooth user interface transitions built using React, Framer Motion, GSAP, and Styled Components.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Features :
+ 
+Smooth Animations: Enjoy engaging motion-based transitions for a seamless user experience.
+Interactive UI: Features like hover effects, clickable buttons, and responsive navigation.
+Custom Components: Reusable and customizable components designed with Styled Components.
+Responsive Design: Optimized for mobile, tablet, and desktop devices.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Technologies Used
 
-## Expanding the ESLint configuration
+React: For building the user interface with component-based architecture.
+Styled Components: For writing modular and scoped CSS with JavaScript.
+GSAP: For smooth, performant animations and transitions (if included).
+React Router: For seamless routing and navigation between pages.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+#Installation : 
+
+#Clone this repository to your local machine:
+#git clone https://github.com/AyushiPundir/ovadrive.git
+
+#Navigate to the project directory:
+#cd Ova-Drive/Ova-Drive
+
+#Install the necessary dependencies:
+#npm install
+
+Start the development server:
+npm run dev
+Visit http://localhost:5173 in your browser to view the app.
+
+
+#Goal
+The goal was to recreate a reference design with animations, transitions, and a UI closely matching the original. The focus was on smooth motion, interactive elements, and an overall cohesive user experience.
+
+#Author
+Ayushi Pundir
