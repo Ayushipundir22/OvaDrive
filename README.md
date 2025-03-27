@@ -36,5 +36,6 @@ Visit http://localhost:5173 in your browser to view the app.
 #Goal
 The goal was to recreate a reference design with animations, transitions, and a UI closely matching the original. The focus was on smooth motion, interactive elements, and an overall cohesive user experience.
 
-#Author
+Author
+
 Ayushi Pundir
