@@ -20,7 +20,7 @@ React Router: For seamless routing and navigation between pages.
 #Installation : 
 
 #Clone this repository to your local machine:
-#git clone https://github.com/AyushiPundir/ovadrive.git
+#git clone https://github.com/AyushiPundir22/ovadrive.git
 
 #Navigate to the project directory:
 #cd Ova-Drive/Ova-Drive
